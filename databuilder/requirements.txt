@@ -27,3 +27,5 @@ responses>=0.10.6
 
 amundsen-common>=0.16.0
 amundsen-rds>=0.0.4
+psycopg2-binary
+pandas-profiling
